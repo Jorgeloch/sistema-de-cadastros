@@ -4,5 +4,5 @@
 
 para rodar esse projeto no seu computador, digite no terminal
 ```
-sudo apt install ...
+node app.js 
 ```
